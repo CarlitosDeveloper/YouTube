@@ -45,7 +45,7 @@
 ### 10. **Escucha a tu cuerpo**  
     Come cuando tengas hambre real y evita comer por aburrimiento o estrés.
 
----
+#### **Resumido**
 
 | N° | Sugerencia                                   |
 |----|-----------------------------------------------|
@@ -60,4 +60,50 @@
 | 9  | **Evita alimentos procesados**                |
 | 10 | **Escucha a tu cuerpo**                       |
 
-Aplicar estas sugerencias te ayudará a mejorar tu alimentación y bienestar general.
+## **Ingredientes y alimentos en alimentos que debes evitar**
+
+### 🚫 **Ingredientes y Aditivos Dañinos**  
+📌 **Evita estos en las etiquetas de los productos:**
+- **Jarabe de maíz de alta fructosa (JMAF)**
+- **Azúcar añadida** (sacarosa, dextrosa, maltosa)
+- **Glutamato monosódico (MSG, E621)** → Potenciador de sabor adictivo.
+- **Aceites hidrogenados o parcialmente hidrogenados** → Contienen **grasas trans**.
+- **Aspartame, sucralosa, acesulfame K** → Endulzantes artificiales con efectos metabólicos negativos.
+- **Colorantes artificiales** (E102, E110, E129) → Relacionados con alergias y problemas neurológicos.
+- **Conservantes artificiales** (benzoato de sodio, nitritos, nitratos) → Pueden ser cancerígenos en exceso.
+
+### 🍔 **Alimentos que Debes Evitar o Reducir**  
+📌 **Alimentos procesados y ultraprocesados con ingredientes dañinos:**
+1. **Bebidas azucaradas** → Refrescos, jugos industrializados, bebidas energéticas.
+2. **Comida rápida** → Hamburguesas, nuggets, pizzas congeladas.
+3. **Snacks ultra-procesados** → Papas fritas, galletas, bollería industrial.
+4. **Carnes procesadas** → Salchichas, embutidos, jamón, tocino.
+5. **Pan blanco y harinas refinadas** → Sin fibra y con alto índice glucémico.
+6. **Cereales de caja** → Altos en azúcar y aditivos.
+7. **Productos "light" o "bajo en grasa"** → Usan más azúcar o químicos para compensar sabor.
+8. **Salsas y aderezos comerciales** → Kétchup, mayonesa, aderezos con azúcar y conservantes.
+9. **Dulces y postres industriales** → Chocolates con leche, caramelos, barras energéticas con azúcar.
+10. **Sopas y comidas instantáneas** → Ricas en sodio, glutamato y grasas trans.
+
+### 🛢️ **Aceites y Grasas a Evitar**  
+📌 **Aceites proinflamatorios y dañinos para el metabolismo:**
+- **Aceite de soja**
+- **Aceite de canola refinado**
+- **Aceite de maíz**
+- **Aceite de girasol refinado**
+- **Aceite de palma**
+- **Margarinas y mantecas vegetales** (grasas trans ocultas)
+
+✅ **Alternativas saludables**:
+- **Aceite de oliva extra virgen**
+- **Aceite de coco virgen (en moderación)**
+- **Mantequilla de vacas alimentadas con pasto**
+- **Aceite de aguacate**
+- **Frutos secos y semillas (fuentes naturales de grasas saludables)**
+
+### 📌 **Conclusión: ¿Qué debes hacer?**  
+1. **Lee etiquetas**: Evita productos con **azúcares ocultos, aceites refinados y aditivos químicos**.
+2. **Prefiere alimentos enteros**: Frutas, verduras, carnes frescas, legumbres y granos integrales.
+3. **Cocina en casa**: Así controlas ingredientes y calidad.
+4. **Bebe agua**: Evita bebidas procesadas con azúcares o edulcorantes artificiales.
+5. **Usa aceites saludables** y reduce las grasas trans e inflamatorias.
