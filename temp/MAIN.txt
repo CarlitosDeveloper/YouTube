@@ -1,0 +1,64 @@
+
+
+
+---
+
+1. Principios de Diseño de Software
+    - SOLID
+        - Single Responsibility Principle (SRP)
+        - Open/Closed Principle (OCP)
+        - Liskov Substitution Principle (LSP)
+        - Interface Segregation Principle (ISP)
+        - Dependency Inversion Principle (DIP)
+    
+    - DRY (Don't Repeat Yourself)
+        - Evitar la duplicación de código.
+
+    - KISS (Keep It Simple, Stupid)
+        - Mantener el diseño simple y claro.
+
+    - YAGNI (You Aren't Gonna Need It)
+        - No desarrollar características innecesarias.
+    
+    - Separation of Concerns
+        - Dividir responsabilidades en módulos claros.
+
+    - Principle of Least Astonishment
+        - Hacer que el sistema sea predecible.
+
+2. Patrones de Diseño
+    - Patrones Creacionales
+        - Singleton
+        - Factory Method
+        - Abstract Factory
+        - Builder
+        - Prototype
+    
+    - Patrones Estructurales
+        - Adapter
+        - Composite
+        - Decorator
+        - Facade
+        - Proxy
+
+    - Patrones de Comportamiento
+        - Observer
+        - Strategy
+        - Command
+        - State
+        - Chain of Responsibility
+
+    - Antipatrones
+        - Ejemplos de malas prácticas que deben evitarse.
+
+4. Refactorización
+    - Técnicas de Refactorización
+        - Extracción de métodos.
+        - Eliminación de código duplicado.
+        - Simplificación de condicionales complejos.
+
+    - Principios de Refactorización
+        - Mejorar sin cambiar el comportamiento observable.
+
+    - Herramientas de Refactorización
+        - IDEs modernos como Visual Studio Code, IntelliJ IDEA, etc.

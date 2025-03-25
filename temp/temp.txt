@@ -1,0 +1,38 @@
+# 📜 Licencia del Proyecto
+
+Este repositorio está protegido bajo la licencia **BUSL-1.1 (Business Source License) o PolyForm Noncommercial**. Su código es público con el propósito exclusivo de educación y aprendizaje. Se permite su estudio, análisis y contribución, pero **queda estrictamente prohibido su uso con fines comerciales o lucrativos sin autorización expresa del autor**.
+
+Si deseas utilizar este código para proyectos comerciales, debes ponerte en contacto con el propietario para negociar los términos de una licencia comercial. Estoy abierto a propuestas y conversaciones.
+
+---
+
+## 📜 Licencia Detallada (archivo LICENSE)
+
+**BUSL-1.1 (Business Source License) o PolyForm Noncommercial**
+
+Este software está disponible para fines de estudio, investigación y aprendizaje. Sin embargo, se establecen las siguientes condiciones:
+
+1. **Uso Permitido**:
+   - Acceso y uso del código con fines educativos.
+   - Contribuciones y mejoras al código dentro del repositorio.
+   
+2. **Restricciones**:
+   - **No se permite** el uso del código con fines comerciales sin una licencia comercial firmada por el autor.
+   - **No se permite** la redistribución del código en proyectos comerciales sin autorización.
+   - **No se permite** la reventa, sublicenciamiento o cualquier otro uso con beneficio financiero sin permiso expreso del autor.
+
+3. **Opciones de Licencia Comercial**:
+   - Si deseas usar este software con fines comerciales, puedes ponerte en contacto con el autor para discutir términos y condiciones de una licencia especial.
+   - Estoy abierto a ofertas y acuerdos de colaboración.
+
+**Contacto:**
+- 📩 Correo: [LearnWithCarlitos@gmail.com](mailto:LearnWithCarlitos@gmail.com)
+- 💼 LinkedIn: [Carlos Calderón](https://www.linkedin.com/in/carloscalderon01/)
+- 🖥️ GitHub: [CarlitosDeveloper](https://github.com/CarlitosDeveloper)
+
+El incumplimiento de estos términos podría resultar en acciones legales.
+
+---
+
+Si tienes dudas sobre esta licencia o deseas obtener una licencia comercial, no dudes en contactarme. ¡Gracias por respetar el trabajo y esfuerzo invertido en este proyecto! 🚀
+
